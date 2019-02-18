@@ -1,2 +1,2 @@
 # MusicPlayer
-simple musicplayer with c#
+Musicplayer with C#
